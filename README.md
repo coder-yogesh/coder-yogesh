@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Sakalabhaktula Yogeswara Rao
 
-<!--
-**coder-yogesh/coder-yogesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 MERN Stack Developer | Angular | Node.js | JavaScript | MongoDB | UI/UX
 
-Here are some ideas to get you started:
+🔗 **Portfolio:** [Click to view](https://coder-yogesh.github.io/portfoliio/) 
+🔗 **LinkedIn:** [yogesh-s-1a6b65229](https://www.linkedin.com/in/yogesh-s-1a6b65229/)  
+🔗 **GitHub:** [coder-yogesh](https://github.com/coder-yogesh)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+💬 Feel free to reach out to me via [email](mailto:yogisakalabhaktula@gmail.com)
+
+📄 [Download My Resume](https://coder-yogesh.github.io/portfoliio/assets/yogesh-resume.pdf)
+
