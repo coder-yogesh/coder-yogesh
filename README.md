@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sakalabhaktula Yogeswara Rao
 
-### 🚀 MERN Stack Developer | Angular | Node.js | JavaScript | MongoDB | UI/UX
+### 🚀 MERN Stack Developer | Angular | Node.js | JavaScript | PostgreSQL | UI/UX
 
 🔗 **Portfolio:** [Click to view](https://coder-yogesh.github.io/portfoliio/) 
 🔗 **LinkedIn:** [yogesh-s-1a6b65229](https://www.linkedin.com/in/yogesh-s-1a6b65229/)  
