@@ -3,7 +3,7 @@
 ### 🚀 MERN Stack Developer | Angular | Node.js | JavaScript | PostgreSQL | UI/UX
 
 🔗 **Portfolio:** [Click to view](https://coder-yogesh.github.io/Portfolio/) 
-🔗 **LinkedIn:** [yogesh-s-1a6b65229](https://www.linkedin.com/in/yogeswara-rao-sakalabhaktula-1a6b65229)  
+🔗 **LinkedIn:** [yogeswara-rao-sakalabhaktula-1a6b65229](https://www.linkedin.com/in/yogeswara-rao-sakalabhaktula-1a6b65229)  
 🔗 **GitHub:** [coder-yogesh](https://github.com/coder-yogesh)
 
 ---
