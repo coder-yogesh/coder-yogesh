@@ -10,5 +10,5 @@
 
 💬 Feel free to reach out to me via [email](mailto:yogisakalabhaktula@gmail.com)
 
-📄 [Download My Resume](https://coder-yogesh.github.io/portfoliio/assets/yogesh_resume_2025.pdf)
+📄 [Download My Resume](https://coder-yogesh.github.io/Portfolio/assets/yogesh_resume_2025.pdf)
 
